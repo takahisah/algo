@@ -1,0 +1,14 @@
+#+Title: Algorithms
+#+Author: Taka Hasegawa
+#+Date: <2015-08-14 Fri>
+
+Work on the examples and exercises in [[http://algs4.cs.princeton.edu/home/][Algorithms, 4th Edition (Sedgewick, Wayne)]]
+
+** Directory structure
+/lib contains the prereq jar files
+
+** Compile
+javac -classpath lib/algs4.jar:lib/stdlib.jar Average.java
+
+** Run
+java -classpath lib/algs4.jar:lib/stdlib.jar Average
